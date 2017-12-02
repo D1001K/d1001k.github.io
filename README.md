@@ -1,2 +1,2 @@
-# d1001k.github.io
-Daniel's personal website
+# Daniel's personal website
+url: https://d1001k.github.io
