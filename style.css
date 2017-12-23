@@ -1,0 +1,30 @@
+body {
+    background-image: url("images/white.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:top;
+}
+a {
+    border-style:solid;
+    border-color:red;
+    border-width:5px;
+    border-radius:20px;
+    background-color:red;
+    padding:10px, 5px, 10px, 5px;
+    box-shadow:10px 5px 10px 5px;
+}
+#sm {
+    box-shadow: 1px 1px 1px 1px;
+}
+a:visited {
+    color:rgb(0, 0, 0);
+}
+a:link{
+    color:black;
+}
+a:hover{
+    color:black;
+}
+a:active{
+    color:black;
+}
