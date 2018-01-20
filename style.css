@@ -1,20 +1,12 @@
 body {
-    background-image: url("images/white.jpg");
+    background-image: url("images/background.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     background-position:top;
 }
-a {
-    border-style:solid;
-    border-color:red;
-    border-width:5px;
-    border-radius:20px;
-    background-color:red;
-    padding:10px, 5px, 10px, 5px;
-    box-shadow:10px 5px 10px 5px;
-}
-#sm {
-    box-shadow: 1px 1px 1px 1px;
+.sm {
+    text-decoration: none;
+
 }
 a:visited {
     color:rgb(0, 0, 0);
@@ -27,4 +19,54 @@ a:hover{
 }
 a:active{
     color:black;
+}
+a {
+  font-size:3em;  
+}
+p {
+    font-size:2em;
+}
+h1 {
+    font-size:4em;
+}
+a {
+    color:#040C0E;
+}
+.connect {
+    border-style:solid;
+    border-color:#132226;
+    border-width:thick; 
+    background-color:#525B56;
+}
+#email {
+    font-size:1em;
+    color:#525B56;
+}
+a,p,h1,h2,nav,section {
+    text-align:center;
+}
+.text {
+    color:#040C0E;
+}
+#homepage {
+    padding:7px;
+}
+#profile {
+    padding:10px;
+}
+#contact {
+    padding:7px;
+}
+#project {
+    padding:4px;
+}
+#copy {
+    margin-bottom:10px;
+}
+main {
+    text-align:center;
+    margin-top:5em;
+}
+#my-canvas {
+    border-style:solid;
 }
