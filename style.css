@@ -60,6 +60,9 @@ a,p,h1,h2,nav,section {
 #project {
     padding:4px;
 }
+#blog {
+   padding:2px; 
+}
 #copy {
     margin-bottom:10px;
 }
